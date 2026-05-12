@@ -80,16 +80,15 @@ Este proyecto se encuentra bajo la licencia **MIT**. Consulta el archivo [`LICEN
 
 ## 👥 Autores
 
-- **Pablo Emilio Escobar Ossa**  
-- **Cristian Xavier Sanchez Valencia**  
+- **Ludy Alexandra Arismendi Arismendi**  
 - Programa de Ingeniería de Sistemas  
 - Universidad Nacional Abierta y a Distancia – UNAD  
-- Mayo de 2025
+- Mayo de 2026
 
 ---
 
-## 🧑‍🏫 Tutor del proyecto
+## 🧑‍🏫 Docente del proyecto
 
-**Daniel Andrés Guzmán Arevalo**  
+**Orlando Gomez Barboza**  
 Director de proyecto de grado – UNAD  
 Escuela de Ciencias Básicas, Tecnología e Ingeniería
