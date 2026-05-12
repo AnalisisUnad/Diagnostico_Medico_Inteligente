@@ -2,7 +2,7 @@
 
 **Sistema Inteligente para la Detección Temprana de Enfermedades Basadas en Síntomas usando Modelos de Inteligencia Artificial**
 
-Este repositorio contiene el código fuente, documentación técnica y prototipo funcional del proyecto de grado desarrollado por estudiantes del programa de Ingeniería de Sistemas de la Universidad Nacional Abierta y a Distancia (UNAD), orientado a facilitar la detección temprana de enfermedades mediante el uso de modelos de machine learning.
+Este repositorio contiene el código fuente, documentación técnica y prototipo funcional del proyecto de grado desarrollado por Ludy Alexandra Arismendi estudiante del programa de Ingeniería de Sistemas de la Universidad Nacional Abierta y a Distancia (UNAD), orientado a facilitar la detección temprana de enfermedades mediante el uso de modelos de machine learning.
 
 ---
 
